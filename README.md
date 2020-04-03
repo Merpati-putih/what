@@ -155,7 +155,7 @@ if [ $bro = 0 ] || [ $bro = 0 ]
 then
 clear
 echo $yellow
-figlet "Yadi  F."
+figlet "Arya DA."
 echo $green"SEMOGA HARIMU MENYENANGKAN...:)"
 sleep 2
 echo $white"     TO BE CONTINUED..."
